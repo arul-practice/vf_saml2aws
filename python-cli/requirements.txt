@@ -2,7 +2,7 @@ awscli==1.15.79
 beautifulsoup4==4.6.3
 boto3==1.7.78
 botocore==1.10.78
-certifi==2018.8.13
+certifi==2022.12.7
 chardet==3.0.4
 docutils==0.14
 idna==2.7
